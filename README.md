@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveenkumar</h1>
 
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India 🇮🇳</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Navee403&label=Profile%20views&color=0e75b6&style=flat" alt="Navee403" />
@@ -8,13 +8,13 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/Navee403**
 
-- 💻 I'm a **Full Stack Developer** working with **MERN Stack and Java Full Stack**
+- 💻 I'm a **Full Stack Web Developer** working with **MERN Stack and Java Full Stack**
 
 - 🌱 I’m currently improving my skills in **Java, Spring Boot, MERN Stack and DSA**
 
 - 💬 Ask me about **Java, Spring Boot, MERN Stack, Python, JavaScript and SQL**
 
-- 📫 How to reach me **YOUR_EMAIL@gmail.com**
+- 📫 How to reach me **navisnaveen5122@gmail.com**
 
 - ⚡ Fun fact **I enjoy building projects and learning new technologies!**
 
@@ -31,13 +31,13 @@
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="www.linkedin.com/in/naveen-kumar-219845292" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+<a href="mailto:navisnaveen5122@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
 </a>
 
@@ -49,13 +49,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_LEETCODE_URL" target="_blank">
+<a href="https://leetcode.com/u/Navee95/" target="_blank">
 <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" width="40" />
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_HACKERRANK_URL" target="_blank">
+<a href="https://www.hackerrank.com/profile/Navi_Naveen" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" height="40" width="40" />
 </a>
 
