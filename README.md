@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, MERN Stack, Python, JavaScript and SQL**
 
-- 📫 How to reach me **YOUR_EMAIL@gmail.com**
+- 📫 How to reach me **navisnaveen5122@gmail.com**
 
 - ⚡ Fun fact **I enjoy building projects and learning new technologies!**
 
