@@ -130,16 +130,16 @@
 <img src="https://img.icons8.com/color/96/canva.png" height="50" width="50" />
 </a>
 
-<a href="https://vercel.com/" target="_blank">
-<img src="https://img.icons8.com/color/96/canva.png" height="50" width="50" />
+<a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" height="50" width="50" />
 </a>
 
-<a href="https://render.com/" target="_blank">
-<img src="https://img.icons8.com/color/96/canva.png" height="50" width="50" />
+<a href="https://render.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" height="50" width="50" />
 </a>
 
-<a href="https://vite.dev/" target="_blank">
-<img src="https://img.icons8.com/color/96/canva.png" height="50" width="50" />
+<a href="https://vite.dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" height="50" width="50" />
 </a>
 
 </p>
