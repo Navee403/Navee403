@@ -130,6 +130,18 @@
 <img src="https://img.icons8.com/color/96/canva.png" height="50" width="50" />
 </a>
 
+<a href="https://vercel.com/" target="_blank">
+<img src="https://img.icons8.com/color/96/canva.png" height="50" width="50" />
+</a>
+
+<a href="https://render.com/" target="_blank">
+<img src="https://img.icons8.com/color/96/canva.png" height="50" width="50" />
+</a>
+
+<a href="https://vite.dev/" target="_blank">
+<img src="https://img.icons8.com/color/96/canva.png" height="50" width="50" />
+</a>
+
 </p>
 
 <br>
